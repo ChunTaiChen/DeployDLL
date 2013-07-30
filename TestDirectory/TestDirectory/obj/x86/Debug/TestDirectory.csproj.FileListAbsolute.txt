@@ -1,0 +1,9 @@
+D:\GitTest\TestDirectory\TestDirectory\bin\Debug\TestDirectory.exe
+D:\GitTest\TestDirectory\TestDirectory\bin\Debug\TestDirectory.pdb
+D:\GitTest\TestDirectory\TestDirectory\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitTest\TestDirectory\TestDirectory\obj\x86\Debug\TestDirectory.Form1.resources
+D:\GitTest\TestDirectory\TestDirectory\obj\x86\Debug\TestDirectory.Properties.Resources.resources
+D:\GitTest\TestDirectory\TestDirectory\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\GitTest\TestDirectory\TestDirectory\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GitTest\TestDirectory\TestDirectory\obj\x86\Debug\TestDirectory.exe
+D:\GitTest\TestDirectory\TestDirectory\obj\x86\Debug\TestDirectory.pdb
